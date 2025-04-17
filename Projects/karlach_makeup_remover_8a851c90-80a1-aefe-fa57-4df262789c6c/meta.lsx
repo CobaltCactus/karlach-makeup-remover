@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="7" revision="1" build="3"/>
+    <version major="4" minor="8" revision="0" build="10"/>
     <region id="MetaData">
         <node id="root">
             <attribute id="GameProject" type="LSString" value=""/>
             <attribute id="Module" type="LSString" value="8a851c90-80a1-aefe-fa57-4df262789c6c"/>
             <attribute id="Name" type="LSString" value="karlach_makeup_remover"/>
             <attribute id="UUID" type="LSString" value="486ff119-db15-dbc0-9a76-230d982aac52"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
             <children>
                 <node id="Categories"/>
             </children>
